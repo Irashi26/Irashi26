@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Irashi26
+- 🌱 I’m currently learning py, html & css
+- 📫 How to reach me : on my github profile
+- 🎓 I'm studying at university.
